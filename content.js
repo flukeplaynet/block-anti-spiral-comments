@@ -1,6 +1,6 @@
 (function() {
   // Define keywords to filter out
-  const keywords = ["Anti spiral", "Anti viral", "Anti", "spiral", "viral", "spirals", "Antis", "virals"];
+  const keywords = ["Anti spiral", "Anti viral", "Anti", "spiral", "viral", "spirals", "Antis", "virals", "Ban Anti"];
 
   // Function that checks all comment text nodes and hides the comment if it contains any of the keywords
   function filterComments() {
